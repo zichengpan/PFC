@@ -6,7 +6,7 @@
 
 [Zicheng Pan](https://zichengpan.github.io/), Xiaohan Yu, Weichuan Zhang, and Yongsheng Gao
 
-[![Paper](https://img.shields.io/badge/paper-Pattern%20Recognition-blue)](https://www.sciencedirect.com/science/article/pii/S0031320324007763)
+[![Paper](https://img.shields.io/badge/paper-Pattern%20Recognition%202024-blue)](https://www.sciencedirect.com/science/article/pii/S0031320324007763)
 
 </div>
 
